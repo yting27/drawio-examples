@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-22T14:33:16.477Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0" etag="ntLDWVgheSsQmT7BY_5t" version="22.1.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-22T14:33:27.296Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0" etag="1op-8r7-QozFDSFi5oBs" version="22.1.3" type="github">
   <diagram name="Page-1" id="MLi_b8CRW8CIYBqJFgWO">
     <mxGraphModel dx="1346" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -135,7 +135,7 @@
         <mxCell id="Yna0Ybnk2GWHzLcwSec_-65" value="Input Buffer" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="105" y="220" width="368" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Yna0Ybnk2GWHzLcwSec_-66" value="Unified Buffer (Keep output and intermediate results)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Yna0Ybnk2GWHzLcwSec_-66" value="Unified Buffer (Store outputs and intermediate results)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="540" y="445" width="200" height="195" as="geometry" />
         </mxCell>
         <mxCell id="Yna0Ybnk2GWHzLcwSec_-67" value="Weight Buffer" style="rounded=0;whiteSpace=wrap;html=1;rotation=90;" vertex="1" parent="1">
