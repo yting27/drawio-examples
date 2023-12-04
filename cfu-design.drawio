@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-04T13:46:17.889Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0" etag="nMcUxitj_fg4nPQivqUH" version="22.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-04T13:47:47.308Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0" etag="rYlN1jX8fZldkW3gyQ3A" version="22.1.5" type="github">
   <diagram name="Page-1" id="MLi_b8CRW8CIYBqJFgWO">
     <mxGraphModel dx="723" dy="1122" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -4060,7 +4060,7 @@
             <mxPoint x="500" y="1810" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7NFHh4WNN4VZ8dYp2Pag-2" value="CfuPlugin_bus_cmd_valid" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="7NFHh4WNN4VZ8dYp2Pag-1">
+        <mxCell id="7NFHh4WNN4VZ8dYp2Pag-2" value="bus_cmd_valid" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="7NFHh4WNN4VZ8dYp2Pag-1">
           <mxGeometry x="-0.024" y="3" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -4071,9 +4071,20 @@
             <mxPoint x="400" y="2090" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7NFHh4WNN4VZ8dYp2Pag-4" value="CfuPlugin_bus_cmd_ready" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="7NFHh4WNN4VZ8dYp2Pag-3">
+        <mxCell id="7NFHh4WNN4VZ8dYp2Pag-4" value="bus_cmd_ready" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="7NFHh4WNN4VZ8dYp2Pag-3">
           <mxGeometry x="0.3471" y="2" relative="1" as="geometry">
             <mxPoint x="34" y="-2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7NFHh4WNN4VZ8dYp2Pag-5" value="" style="endArrow=classic;html=1;rounded=0;exitX=1.015;exitY=0.582;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.008;entryY=0.581;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="_dbP6FsCJcD6fyELimqh-1" target="_dbP6FsCJcD6fyELimqh-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="260" y="2070" as="sourcePoint" />
+            <mxPoint x="310" y="2020" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7NFHh4WNN4VZ8dYp2Pag-6" value="bus_cmd_payload_function_id" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="7NFHh4WNN4VZ8dYp2Pag-5">
+          <mxGeometry x="0.2314" relative="1" as="geometry">
+            <mxPoint x="-26" y="-2" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
