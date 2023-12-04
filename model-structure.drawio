@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-04T15:33:10.115Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0" etag="g0ySn77-YKuckunmjrBR" version="22.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-04T15:33:46.756Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0" etag="YfwwHaOKkq491-8KgZCC" version="22.1.5" type="github">
   <diagram name="Page-1" id="bt9SU6ZH0CoPSURDWzX1">
     <mxGraphModel dx="2019" dy="1143" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -363,16 +363,22 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ewkmoBufmCwCCQxwxAz7-66" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="970" y="180" width="70" height="30" as="geometry" />
+          <mxGeometry x="970" y="110" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ewkmoBufmCwCCQxwxAz7-67" value="Matrix Multiplication for integer weights" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1050" y="180" width="250" height="30" as="geometry" />
+          <mxGeometry x="1050" y="110" width="250" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ewkmoBufmCwCCQxwxAz7-68" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="970" y="220" width="70" height="30" as="geometry" />
+          <mxGeometry x="970" y="150" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ewkmoBufmCwCCQxwxAz7-69" value="Matrix Add-subtract for binary weights" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1050" y="220" width="250" height="30" as="geometry" />
+          <mxGeometry x="1050" y="150" width="250" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ewkmoBufmCwCCQxwxAz7-70" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="970" y="190" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ewkmoBufmCwCCQxwxAz7-71" value="Vector-scalar Division" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1050" y="190" width="250" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
