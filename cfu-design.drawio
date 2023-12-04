@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-04T14:28:03.491Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0" etag="R7M4xZJW1rGSbRZeTIWZ" version="22.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-04T14:28:23.806Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0" etag="7iH9vN0MXOIVj1EBHXr-" version="22.1.5" type="github">
   <diagram name="Page-1" id="MLi_b8CRW8CIYBqJFgWO">
     <mxGraphModel dx="3225" dy="1345" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -4053,7 +4053,7 @@
             <mxPoint x="8" y="1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_dbP6FsCJcD6fyELimqh-1" value="VexRiscv CPU" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="_dbP6FsCJcD6fyELimqh-1" value="VexRiscv CPU" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="-34" y="1707.62" width="193" height="300" as="geometry" />
         </mxCell>
         <mxCell id="7NFHh4WNN4VZ8dYp2Pag-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_dbP6FsCJcD6fyELimqh-4">
@@ -4071,7 +4071,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_dbP6FsCJcD6fyELimqh-4" value="CFU" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="_dbP6FsCJcD6fyELimqh-4" value="CFU" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="369" y="1749.37" width="160" height="240" as="geometry" />
         </mxCell>
         <mxCell id="7NFHh4WNN4VZ8dYp2Pag-1" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=-0.004;entryY=0.084;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="_dbP6FsCJcD6fyELimqh-4">
@@ -4259,10 +4259,10 @@
         <mxCell id="7NFHh4WNN4VZ8dYp2Pag-56" value="1039" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="795" y="2510" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="7NFHh4WNN4VZ8dYp2Pag-58" value="32-bit Wishbone Bus" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7NFHh4WNN4VZ8dYp2Pag-58" value="32-bit Wishbone Bus" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="-31.5" y="2050" width="565" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="7NFHh4WNN4VZ8dYp2Pag-59" value="Peripheral Bus" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7NFHh4WNN4VZ8dYp2Pag-59" value="Peripheral Bus" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="-31.5" y="2155" width="160.5" height="100" as="geometry" />
         </mxCell>
         <mxCell id="7NFHh4WNN4VZ8dYp2Pag-62" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;edgeStyle=orthogonalEdgeStyle;startArrow=classic;startFill=1;" edge="1" parent="1" source="7NFHh4WNN4VZ8dYp2Pag-60" target="7NFHh4WNN4VZ8dYp2Pag-61">
@@ -4276,10 +4276,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="7NFHh4WNN4VZ8dYp2Pag-60" value="RAM Driver" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7NFHh4WNN4VZ8dYp2Pag-60" value="RAM Driver" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="344" y="2150" width="165" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="7NFHh4WNN4VZ8dYp2Pag-61" value="128MB SDRAM" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7NFHh4WNN4VZ8dYp2Pag-61" value="128MB SDRAM" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="590" y="2150" width="165" height="110" as="geometry" />
         </mxCell>
         <mxCell id="7NFHh4WNN4VZ8dYp2Pag-65" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.165;exitY=-0.008;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="7NFHh4WNN4VZ8dYp2Pag-58" target="_dbP6FsCJcD6fyELimqh-1">
@@ -4297,7 +4297,7 @@
         <mxCell id="7NFHh4WNN4VZ8dYp2Pag-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;" edge="1" parent="1" source="7NFHh4WNN4VZ8dYp2Pag-70" target="7NFHh4WNN4VZ8dYp2Pag-59">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="7NFHh4WNN4VZ8dYp2Pag-70" value="USB-UART" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7NFHh4WNN4VZ8dYp2Pag-70" value="USB-UART" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="-280" y="2162.25" width="165" height="85.5" as="geometry" />
         </mxCell>
       </root>
