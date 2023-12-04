@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-04T13:49:34.866Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0" etag="vhEZwtK1RUIPd9r1lB-h" version="22.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-04T13:50:15.398Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0" etag="x_5n_wrk2rub02DUyfGU" version="22.1.5" type="github">
   <diagram name="Page-1" id="MLi_b8CRW8CIYBqJFgWO">
     <mxGraphModel dx="723" dy="1122" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -4038,6 +4038,14 @@
         </mxCell>
         <mxCell id="yeOaQ4s7YRJAcX_Sfh3I-32" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;W&lt;sup&gt;T&lt;/sup&gt;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1885" y="200" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7NFHh4WNN4VZ8dYp2Pag-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_dbP6FsCJcD6fyELimqh-1" target="_dbP6FsCJcD6fyELimqh-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7NFHh4WNN4VZ8dYp2Pag-14" value="cmd_inputs_1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="7NFHh4WNN4VZ8dYp2Pag-11">
+          <mxGeometry x="-0.1949" y="1" relative="1" as="geometry">
+            <mxPoint x="8" y="1" as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="_dbP6FsCJcD6fyELimqh-1" value="VexRiscv CPU" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="239.5" y="1739.51" width="193" height="235.5" as="geometry" />
