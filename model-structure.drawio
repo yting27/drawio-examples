@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-04T15:37:50.814Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0" etag="kPAw9rKIWzwhwZzpWj4W" version="22.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-04T15:38:22.078Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0" etag="cKQ5Zcn16ONIfvTdzkz4" version="22.1.5" type="github">
   <diagram name="Page-1" id="bt9SU6ZH0CoPSURDWzX1">
     <mxGraphModel dx="2019" dy="1143" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -238,7 +238,7 @@
         <mxCell id="ewkmoBufmCwCCQxwxAz7-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ewkmoBufmCwCCQxwxAz7-35" target="ewkmoBufmCwCCQxwxAz7-43">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ewkmoBufmCwCCQxwxAz7-35" value="Feed Forward" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="ewkmoBufmCwCCQxwxAz7-35" value="Feed Forward" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#FF9999;gradientDirection=east;" vertex="1" parent="1">
           <mxGeometry x="1550" y="590" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ewkmoBufmCwCCQxwxAz7-36" value="N x encoder" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
@@ -283,7 +283,7 @@
         <mxCell id="ewkmoBufmCwCCQxwxAz7-43" value="Pooling" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1550" y="720" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ewkmoBufmCwCCQxwxAz7-44" value="Feed Forward" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="ewkmoBufmCwCCQxwxAz7-44" value="Feed Forward" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#FF9999;gradientDirection=east;" vertex="1" parent="1">
           <mxGeometry x="1550" y="770" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ewkmoBufmCwCCQxwxAz7-45" value="Add &amp;amp; Norm" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
