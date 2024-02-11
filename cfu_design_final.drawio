@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-11T06:21:52.208Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="QHsBrkhi-CvsWgS3uQaW" version="23.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-11T06:34:43.787Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="TM2krsx62E6N_pxOC7bo" version="23.1.2" type="github">
   <diagram name="Page-1" id="kObWJj5i_zT9LaBl0vDd">
     <mxGraphModel dx="1587" dy="1135" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -135,7 +135,7 @@
         <mxCell id="RmzyCrjycOw2henDT9Kv-43" value="Wgt FIFO 1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="58.5" y="104" width="75" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="RmzyCrjycOw2henDT9Kv-44" value="Output Buffer" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="RmzyCrjycOw2henDT9Kv-44" value="Output Buffer" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="430" y="390" width="200" height="123" as="geometry" />
         </mxCell>
         <mxCell id="RmzyCrjycOw2henDT9Kv-46" value="Controller" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -162,10 +162,10 @@
         <mxCell id="RmzyCrjycOw2henDT9Kv-64" value="In FIFO 1" style="rounded=0;whiteSpace=wrap;html=1;direction=south;rotation=-90;" vertex="1" parent="1">
           <mxGeometry x="-9" y="176.5" width="81" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="RmzyCrjycOw2henDT9Kv-65" value="Input Data Cache" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="RmzyCrjycOw2henDT9Kv-65" value="Input Data Cache" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="430" y="104" width="200" height="86" as="geometry" />
         </mxCell>
-        <mxCell id="RmzyCrjycOw2henDT9Kv-66" value="Weight Data Cache" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="RmzyCrjycOw2henDT9Kv-66" value="Weight Data Cache" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="430" y="200" width="200" height="86" as="geometry" />
         </mxCell>
       </root>
