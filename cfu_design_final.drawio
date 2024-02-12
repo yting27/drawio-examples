@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-12T14:55:13.936Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="czVPHoyq-9hbUYzxSQpj" version="23.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-12T14:56:52.105Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="Pt9VMQZHQyrFhUeC4y9M" version="23.1.2" type="github">
   <diagram name="Page-1" id="kObWJj5i_zT9LaBl0vDd">
     <mxGraphModel dx="1002" dy="535" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -195,7 +195,7 @@
         <mxCell id="2Fa2_D-u_AuwYc3EG6S9-70" value="avail_input_data_cnt" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1248" y="810" width="155" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="2Fa2_D-u_AuwYc3EG6S9-71" value="data_in (32 bits)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="2Fa2_D-u_AuwYc3EG6S9-71" value="data_in[31:0]" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1083" y="669" width="134" height="30" as="geometry" />
         </mxCell>
         <mxCell id="2Fa2_D-u_AuwYc3EG6S9-72" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
@@ -224,7 +224,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="2Fa2_D-u_AuwYc3EG6S9-76" value="data_peN (8 bits each)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="2Fa2_D-u_AuwYc3EG6S9-76" value="data_pe1[7:0]...pe4" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1249" y="660" width="154" height="30" as="geometry" />
         </mxCell>
         <mxCell id="V1JMALOKHkaCuVgSwpqe-11" value="" style="group" vertex="1" connectable="0" parent="1">
@@ -631,6 +631,9 @@
               <mxPoint x="170" y="-118" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="V1JMALOKHkaCuVgSwpqe-105" value="avail_input_data_cnt" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1240" y="840" width="155" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
