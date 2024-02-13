@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-13T04:06:00.559Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="WoUwbPGn-7y-vCl-J-iB" version="23.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-13T04:06:54.530Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="ww3SDfdts3zmzAbnes7T" version="23.1.2" type="github">
   <diagram name="Page-1" id="kObWJj5i_zT9LaBl0vDd">
     <mxGraphModel dx="746" dy="759" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -761,6 +761,24 @@
         </mxCell>
         <mxCell id="W4P6kLGnOymOEjJfD1iE-3" value="Cache&lt;br&gt;256 x 256 = 65,536 bytes" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="889.25" y="1020" width="325.5" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="W4P6kLGnOymOEjJfD1iE-5" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="W4P6kLGnOymOEjJfD1iE-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="821" y="290" as="sourcePoint" />
+            <mxPoint x="851" y="285" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="W4P6kLGnOymOEjJfD1iE-6" value="cmd_payload_inputs_0[31:0]" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="660" y="270" width="168" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="W4P6kLGnOymOEjJfD1iE-7" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="W4P6kLGnOymOEjJfD1iE-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="821" y="359.5" as="sourcePoint" />
+            <mxPoint x="851" y="354.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="W4P6kLGnOymOEjJfD1iE-8" value="cmd_payload_inputs_1[31:0]" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="660" y="339.5" width="168" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
