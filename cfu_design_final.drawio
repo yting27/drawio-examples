@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-20T14:30:36.590Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="S4o4ch7ibTPjrNqT-N1f" version="23.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-20T14:30:51.123Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="lrJXVj5J-yD5Oqebr4kF" version="23.1.5" type="github">
   <diagram name="Page-1" id="kObWJj5i_zT9LaBl0vDd">
     <mxGraphModel dx="1242" dy="535" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1102,12 +1102,7 @@
         </mxCell>
         <mxCell id="utvXDzQcJAZTFUWxznYc-9" value="cmd_payload_function_id =&amp;nbsp;CMWS_Ins,&amp;nbsp;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;cmd_payload_inputs_0 = X,&amp;nbsp;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;cmd_payload_inputs_1 = X" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="utvXDzQcJAZTFUWxznYc-8">
           <mxGeometry x="-0.0642" y="-2" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="utvXDzQcJAZTFUWxznYc-10" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="utvXDzQcJAZTFUWxznYc-8">
-          <mxGeometry x="-0.04" y="-7" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="27" y="38" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="utvXDzQcJAZTFUWxznYc-4" value="In-shape Obtained" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
