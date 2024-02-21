@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-21T11:36:46.130Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="G-E1mukxTs_pE9o6OsN6" version="23.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-21T11:37:45.365Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="cbNMIn-d9ux-tyYYs29w" version="23.1.5" type="github">
   <diagram name="Page-1" id="kObWJj5i_zT9LaBl0vDd">
     <mxGraphModel dx="1179" dy="629" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1207,28 +1207,33 @@
         <mxCell id="ALonE1w8A3YB0RBnjg-G-7" value="Input &amp;amp; Wgt Data Loaded" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1430" y="2880" width="180" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="8e2bRsNI00Ax5Izam9L1-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="8e2bRsNI00Ax5Izam9L1-8" target="8e2bRsNI00Ax5Izam9L1-14" edge="1">
+        <mxCell id="8e2bRsNI00Ax5Izam9L1-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="8e2bRsNI00Ax5Izam9L1-8" target="9GCFbvYuh4iiB_FXLrFs-4" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1400" y="3180" />
-              <mxPoint x="1540" y="3180" />
+              <mxPoint x="1400" y="3210" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="8e2bRsNI00Ax5Izam9L1-8" value="Rrun MatMul" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1340" y="3070" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="8e2bRsNI00Ax5Izam9L1-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="8e2bRsNI00Ax5Izam9L1-9" target="8e2bRsNI00Ax5Izam9L1-14" edge="1">
+        <mxCell id="8e2bRsNI00Ax5Izam9L1-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="9GCFbvYuh4iiB_FXLrFs-4" target="8e2bRsNI00Ax5Izam9L1-14" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1650" y="3180" />
-              <mxPoint x="1540" y="3180" />
+              <mxPoint x="1520" y="3370" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="8e2bRsNI00Ax5Izam9L1-19" value="cmd_payload_function_id =&amp;nbsp;CMGW_Ins,&amp;nbsp;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;cmd_payload_inputs_0 = X,&amp;nbsp;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;cmd_payload_inputs_1 = X" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="8e2bRsNI00Ax5Izam9L1-15" vertex="1" connectable="0">
           <mxGeometry x="-0.3434" y="3" relative="1" as="geometry">
             <mxPoint x="-32" y="117" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9GCFbvYuh4iiB_FXLrFs-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="8e2bRsNI00Ax5Izam9L1-9" target="9GCFbvYuh4iiB_FXLrFs-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1640" y="3210" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="8e2bRsNI00Ax5Izam9L1-9" value="Run MatAddSub&lt;br&gt;(Out: NaN)" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -1285,6 +1290,9 @@
         </mxCell>
         <mxCell id="9GCFbvYuh4iiB_FXLrFs-1" value="Vect shape obtained" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="894.5" y="2130" width="177.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="9GCFbvYuh4iiB_FXLrFs-4" value="Done Ops" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1460" y="3170" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
