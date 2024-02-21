@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-21T11:31:05.248Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="bSYAUIH6TB8k4yez8u0q" version="23.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-21T11:31:47.152Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="8iJA_B48RW-K5usMrlD8" version="23.1.5" type="github">
   <diagram name="Page-1" id="kObWJj5i_zT9LaBl0vDd">
     <mxGraphModel dx="1002" dy="535" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1103,6 +1103,18 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="9GCFbvYuh4iiB_FXLrFs-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="utvXDzQcJAZTFUWxznYc-3" target="9GCFbvYuh4iiB_FXLrFs-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="810" y="2155" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9GCFbvYuh4iiB_FXLrFs-3" value="cmd_payload_function_id =&amp;nbsp;CVS_Ins,&amp;nbsp;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;cmd_payload_inputs_0 = X,&amp;nbsp;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;cmd_payload_inputs_1 = X" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="9GCFbvYuh4iiB_FXLrFs-2">
+          <mxGeometry x="-0.1784" relative="1" as="geometry">
+            <mxPoint y="21" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="utvXDzQcJAZTFUWxznYc-3" value="Idle" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="770" y="2270" width="100" height="60" as="geometry" />
         </mxCell>
@@ -1271,7 +1283,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="9GCFbvYuh4iiB_FXLrFs-1" value="Vect shape obtained" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="872.5" y="2110" width="197.5" height="50" as="geometry" />
+          <mxGeometry x="894.5" y="2130" width="177.5" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
