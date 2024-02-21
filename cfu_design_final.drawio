@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-21T13:18:50.718Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="exqNhQxiD24p00xla7gy" version="23.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-21T13:19:36.899Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="BhOccMZ2Jm9CcvzxmkN1" version="23.1.5" type="github">
   <diagram name="Page-1" id="kObWJj5i_zT9LaBl0vDd">
     <mxGraphModel dx="1336" dy="713" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1254,9 +1254,8 @@
         <mxCell id="8e2bRsNI00Ax5Izam9L1-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="9GCFbvYuh4iiB_FXLrFs-4" target="8e2bRsNI00Ax5Izam9L1-14" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="787" y="3770" />
-              <mxPoint x="1375" y="3770" />
-              <mxPoint x="1375" y="3760" />
+              <mxPoint x="927" y="3780" />
+              <mxPoint x="1249" y="3780" />
             </Array>
             <mxPoint x="1365" y="3546" as="sourcePoint" />
           </mxGeometry>
@@ -1315,20 +1314,20 @@
             <mxPoint x="8" y="-14" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8e2bRsNI00Ax5Izam9L1-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="8e2bRsNI00Ax5Izam9L1-14" target="8e2bRsNI00Ax5Izam9L1-14" edge="1">
+        <mxCell id="8e2bRsNI00Ax5Izam9L1-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;" parent="1" source="8e2bRsNI00Ax5Izam9L1-14" target="8e2bRsNI00Ax5Izam9L1-14" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1418" y="3567" />
-              <mxPoint x="1545" y="3567" />
-              <mxPoint x="1545" y="3666" />
-              <mxPoint x="1375" y="3666" />
+              <mxPoint x="1292" y="3940" />
+              <mxPoint x="1420" y="3940" />
+              <mxPoint x="1420" y="4040" />
+              <mxPoint x="1292" y="4040" />
             </Array>
             <mxPoint x="1385" y="3626" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="8e2bRsNI00Ax5Izam9L1-21" value="cmd_payload_function_id =&amp;nbsp;CMGW_Ins,&amp;nbsp;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;cmd_payload_inputs_0 = X,&amp;nbsp;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;cmd_payload_inputs_1 = X&lt;br&gt;/// rsp_payload_outputs_0 = X" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="8e2bRsNI00Ax5Izam9L1-20" vertex="1" connectable="0">
           <mxGeometry x="-0.1534" y="-1" relative="1" as="geometry">
-            <mxPoint x="1" y="3" as="offset" />
+            <mxPoint x="2" y="12" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="9GCFbvYuh4iiB_FXLrFs-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="9GCFbvYuh4iiB_FXLrFs-1" target="9GCFbvYuh4iiB_FXLrFs-7">
