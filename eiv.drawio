@@ -17,10 +17,10 @@
           <mxGeometry x="-107.5" y="490" width="230" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bah0uvGRH5clV5_6ylq--4" value="IC" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-97.5" y="560" width="210" height="30" as="geometry" />
+          <mxGeometry x="-97.5" y="570" width="210" height="30" as="geometry" />
         </mxCell>
         <mxCell id="bah0uvGRH5clV5_6ylq--5" value="Password" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-97.5" y="600" width="210" height="30" as="geometry" />
+          <mxGeometry x="-97.5" y="610" width="210" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
