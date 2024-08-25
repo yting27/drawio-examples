@@ -45,8 +45,8 @@
         <mxCell id="bah0uvGRH5clV5_6ylq--13" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;Enter Business Details&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="141.25" y="780" width="202.5" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="bah0uvGRH5clV5_6ylq--14" value="&lt;span style=&quot;font-size: 12pt; line-height: 156%; font-family: Arial, sans-serif;&quot;&gt;Supplier’s Name&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12pt; line-height: 156%; font-family: Arial, sans-serif;&quot;&gt;&lt;span style=&quot;&quot;&gt;Supplier’s TIN&lt;/span&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12pt; line-height: 156%; font-family: Arial, sans-serif;&quot;&gt;&lt;p style=&quot;margin-top:0in;margin-right:0in;&lt;br/&gt;margin-bottom:6.3pt;margin-left:.05pt;text-align:left;text-indent:0in;&lt;br/&gt;line-height:107%&quot; align=&quot;left&quot; class=&quot;MsoNormal&quot;&gt;Supplier’s Registration /&amp;nbsp;&lt;span style=&quot;text-indent: 0in; font-size: 12pt; background-color: initial;&quot;&gt;Identification Number /&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;text-indent: 0in; font-size: 12pt; background-color: initial;&quot;&gt;Passport Number&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="480" y="430" width="690" height="250" as="geometry" />
+        <mxCell id="bah0uvGRH5clV5_6ylq--17" value="...&lt;div&gt;...&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="202.5" y="820" width="80" height="130" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
