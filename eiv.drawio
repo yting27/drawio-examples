@@ -13,7 +13,7 @@
         <mxCell id="bah0uvGRH5clV5_6ylq--9" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bah0uvGRH5clV5_6ylq--2" target="bah0uvGRH5clV5_6ylq--7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="bah0uvGRH5clV5_6ylq--10" value="Wait for verification? Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="bah0uvGRH5clV5_6ylq--9">
+        <mxCell id="bah0uvGRH5clV5_6ylq--10" value="Wait for verification? No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="bah0uvGRH5clV5_6ylq--9">
           <mxGeometry x="-0.0382" y="-3" relative="1" as="geometry">
             <mxPoint x="1" as="offset" />
           </mxGeometry>
