@@ -54,7 +54,7 @@
             <mxPoint x="-132" y="770" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="bah0uvGRH5clV5_6ylq--19" value="Wait for verification? Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="bah0uvGRH5clV5_6ylq--18">
+        <mxCell id="bah0uvGRH5clV5_6ylq--19" value="Wait for verification? Yes&lt;br&gt;First time sign-up? Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="bah0uvGRH5clV5_6ylq--18">
           <mxGeometry x="-0.0382" y="-3" relative="1" as="geometry">
             <mxPoint x="1" as="offset" />
           </mxGeometry>
