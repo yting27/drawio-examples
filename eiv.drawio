@@ -10,6 +10,14 @@
         <mxCell id="bah0uvGRH5clV5_6ylq--1" value="&lt;font style=&quot;font-size: 23px;&quot;&gt;App Logo&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-107.5" y="225" width="230" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="bah0uvGRH5clV5_6ylq--9" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bah0uvGRH5clV5_6ylq--2" target="bah0uvGRH5clV5_6ylq--7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bah0uvGRH5clV5_6ylq--10" value="Wait for verification? Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="bah0uvGRH5clV5_6ylq--9">
+          <mxGeometry x="-0.0382" y="-3" relative="1" as="geometry">
+            <mxPoint x="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="bah0uvGRH5clV5_6ylq--2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-205" y="410" width="425" height="230" as="geometry" />
         </mxCell>
