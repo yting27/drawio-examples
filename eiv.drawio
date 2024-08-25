@@ -45,6 +45,9 @@
         <mxCell id="bah0uvGRH5clV5_6ylq--13" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;Enter Business Details&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="141.25" y="780" width="202.5" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="bah0uvGRH5clV5_6ylq--14" value="&lt;span style=&quot;font-size: 12pt; line-height: 156%; font-family: Arial, sans-serif;&quot;&gt;Supplier’s Name&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12pt; line-height: 156%; font-family: Arial, sans-serif;&quot;&gt;&lt;span style=&quot;&quot;&gt;Supplier’s TIN&lt;/span&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12pt; line-height: 156%; font-family: Arial, sans-serif;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="430" width="240" height="140" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
