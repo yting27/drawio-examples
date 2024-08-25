@@ -48,6 +48,17 @@
         <mxCell id="bah0uvGRH5clV5_6ylq--17" value="...&lt;div&gt;...&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="202.5" y="820" width="80" height="130" as="geometry" />
         </mxCell>
+        <mxCell id="bah0uvGRH5clV5_6ylq--18" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.528;exitY=1.014;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="bah0uvGRH5clV5_6ylq--2" target="bah0uvGRH5clV5_6ylq--12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-56" y="650" as="sourcePoint" />
+            <mxPoint x="-132" y="770" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bah0uvGRH5clV5_6ylq--19" value="Wait for verification? Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="bah0uvGRH5clV5_6ylq--18">
+          <mxGeometry x="-0.0382" y="-3" relative="1" as="geometry">
+            <mxPoint x="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
